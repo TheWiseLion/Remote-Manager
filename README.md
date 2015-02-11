@@ -8,9 +8,9 @@ It used a lot of MSDN api's.
 
 I left the code as it was back in 2010, debug lines and all. 
 
-Topics - Networking, Threading, Pipes
+Topics: Networking, Threading, Pipes
 
-Project size - 
+Project size: ~2000 lines
 
 <h1>Features:</h1>
 * Server + Client model
