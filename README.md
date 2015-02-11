@@ -1,10 +1,14 @@
 # Remote-Manager
+<h1>Notes:</h1>
 Project from Late 2009 to early 2010.
 Initally built to be malware but lets just call it "remote" management.
 It used a lot of MSDN api's. 
 I left the code as it was back in 2010, debug lines and all. 
 
-Featured:
+Topics - Networking, Threading, Pipes
+Project size - 
+
+<h1>Features:</h1>
 * Server + Client model
 * Commands could be sent to the client. 
 * Client window can be stealthed.
@@ -16,11 +20,9 @@ Featured:
  
 
 
-Topics - Networking, Threading, Pipes
 
-Project size - 
 
-Screen Caps:
+<h1>Screen Caps of a Client and Server:</h1>
 ![alt tag](http://i.imgur.com/1EEYqtl.png)
 
 ![alt tag](http://i.imgur.com/rDqcyBu.png)
