@@ -1,11 +1,15 @@
 # Remote-Manager
-<h2>Notes:</h2>
-Project from Late 2009 to early 2010.
+<h1>Notes:</h1>
+Project from Late 2009 to early 2010. 
+
 Initally built to be malware but lets just call it "remote" management.
+
 It used a lot of MSDN api's. 
+
 I left the code as it was back in 2010, debug lines and all. 
 
 Topics - Networking, Threading, Pipes
+
 Project size - 
 
 <h1>Features:</h1>
